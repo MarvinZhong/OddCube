@@ -1,5 +1,3 @@
-#學號: 107213067
-#姓名: 鍾明智
 def square(): #main statement
     n = int(input()) #input n value
     grid = n**2 #set grid value from n value with n^2
